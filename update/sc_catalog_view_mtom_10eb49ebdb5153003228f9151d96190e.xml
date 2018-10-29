@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Trip Catalog">a5db012fdb5153003228f9151d961907</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>jake.g</sys_created_by>
+        <sys_created_on>2018-04-12 04:13:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>10eb49ebdb5153003228f9151d96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trip Catalog.catalog_trip_catalog</sys_name>
+        <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_trip_catalog">50eb49ebdb5153003228f9151d96190d</sys_portal_page>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_10eb49ebdb5153003228f9151d96190e</sys_update_name>
+        <sys_updated_by>jake.g</sys_updated_by>
+        <sys_updated_on>2018-04-12 04:13:44</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

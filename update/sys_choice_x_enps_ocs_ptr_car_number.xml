@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="car_number" table="x_enps_ocs_ptr" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5301</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>0</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3dc329adb7a930002755f135e9619cb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:55</sys_updated_on>
+            <value>5301</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7301</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>1</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7dcb69adb7a930002755f135e96190c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:55</sys_updated_on>
+            <value>7301</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6301</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>2</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3dcb69adb7a930002755f135e96190e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:55</sys_updated_on>
+            <value>6301</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6302</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>3</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>afdcb69adb7a930002755f135e96190f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:55</sys_updated_on>
+            <value>6302</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7302</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>4</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>abdcb69adb7a930002755f135e961911</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:55</sys_updated_on>
+            <value>7302</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5302</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>5</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7dcb69adb7a930002755f135e961913</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:55</sys_updated_on>
+            <value>5302</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5303</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>6</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3dcb69adb7a930002755f135e961915</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:55</sys_updated_on>
+            <value>5303</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7303</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>7</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>afdcb69adb7a930002755f135e961916</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:56</sys_updated_on>
+            <value>7303</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6303</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>8</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>abdcb69adb7a930002755f135e961918</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:56</sys_updated_on>
+            <value>6303</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6304</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>9</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7dcb69adb7a930002755f135e96191a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:56</sys_updated_on>
+            <value>6304</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7304</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>10</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3dcb69adb7a930002755f135e96191c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:56</sys_updated_on>
+            <value>7304</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>electric tilt train</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5304</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>11</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>afdcb69adb7a930002755f135e96191d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:56</sys_updated_on>
+            <value>5304</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5402</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>12</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>acedfa9adb7a930002755f135e96198d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:07</sys_updated_on>
+            <value>5402</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7401</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>13</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8edfa9adb7a930002755f135e96198f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:08</sys_updated_on>
+            <value>7401</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7407</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>14</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4edfa9adb7a930002755f135e961991</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:08</sys_updated_on>
+            <value>7407</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7402</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>15</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0edfa9adb7a930002755f135e961993</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:08</sys_updated_on>
+            <value>7402</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7405</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>16</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcedfa9adb7a930002755f135e961994</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:08</sys_updated_on>
+            <value>7405</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7406</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>17</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ced32dadb7a930002755f135e961927</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:08</sys_updated_on>
+            <value>7406</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7403</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>18</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78ed32dadb7a930002755f135e961929</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:09</sys_updated_on>
+            <value>7403</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7404</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>19</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74ed32dadb7a930002755f135e96192b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:09</sys_updated_on>
+            <value>7404</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5407</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>20</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70ed32dadb7a930002755f135e96192d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:09</sys_updated_on>
+            <value>5407</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5408</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>21</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ced32dadb7a930002755f135e96192e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:09</sys_updated_on>
+            <value>5408</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7408</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>22</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78ed32dadb7a930002755f135e961930</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:09</sys_updated_on>
+            <value>7408</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7414</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>23</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74ed32dadb7a930002755f135e961932</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:10</sys_updated_on>
+            <value>7414</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7409</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>24</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41ed32dadb7a930002755f135e961934</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:10</sys_updated_on>
+            <value>7409</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7412</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>25</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ded32dadb7a930002755f135e961935</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:10</sys_updated_on>
+            <value>7412</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7413</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>26</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59ed32dadb7a930002755f135e961937</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:10</sys_updated_on>
+            <value>7413</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7410</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>27</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55ed32dadb7a930002755f135e961939</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:10</sys_updated_on>
+            <value>7410</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7411</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>28</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51ed32dadb7a930002755f135e96193b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:11</sys_updated_on>
+            <value>7411</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5404</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>29</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ded32dadb7a930002755f135e96193c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:13</sys_updated_on>
+            <value>5404</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5405</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>30</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59ed32dadb7a930002755f135e96193e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:13</sys_updated_on>
+            <value>5405</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7415</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>31</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99ed32dadb7a930002755f135e961965</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:13</sys_updated_on>
+            <value>7415</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7421</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>32</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95ed32dadb7a930002755f135e961967</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:14</sys_updated_on>
+            <value>7421</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7416</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>33</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91ed32dadb7a930002755f135e961969</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:14</sys_updated_on>
+            <value>7416</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7419</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>34</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aded32dadb7a930002755f135e96196a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:14</sys_updated_on>
+            <value>7419</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7420</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>35</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9ed32dadb7a930002755f135e96196c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:14</sys_updated_on>
+            <value>7420</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7417</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>36</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5ed32dadb7a930002755f135e96196e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:15</sys_updated_on>
+            <value>7417</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7418</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>37</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1ed32dadb7a930002755f135e961970</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:15</sys_updated_on>
+            <value>7418</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>spirit of queensland</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5409</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>38</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:53:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aded32dadb7a930002755f135e961971</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:55:15</sys_updated_on>
+            <value>5409</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAL 1875</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>39</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:56:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5caef2dadb7a930002755f135e961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:56:53</sys_updated_on>
+            <value>LAL 1875</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAL 1876</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>40</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:57:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7aef6dadb7a930002755f135e9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:57:05</sys_updated_on>
+            <value>LAL 1876</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAL 1877</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>41</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:57:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fabe3adadb7a930002755f135e96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:57:19</sys_updated_on>
+            <value>LAL 1877</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAL 1878</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>42</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:57:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81ce3adadb7a930002755f135e961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:57:28</sys_updated_on>
+            <value>LAL 1878</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAL 1879</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>43</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93ce7adadb7a930002755f135e96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:57:38</sys_updated_on>
+            <value>LAL 1879</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAL 1931</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>44</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:57:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53de7adadb7a930002755f135e961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:57:54</sys_updated_on>
+            <value>LAL 1931</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAR 1903</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>45</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:58:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26eebadadb7a930002755f135e961910</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:03:18</sys_updated_on>
+            <value>LAR 1903</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAR 1905</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>46</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:58:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8efebadadb7a930002755f135e961936</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:03:26</sys_updated_on>
+            <value>LAR 1905</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAR 1906</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>47</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:58:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>010fbadadb7a930002755f135e961941</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:03:34</sys_updated_on>
+            <value>LAR 1906</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LBL 1880</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>48</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:58:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c11f3adadb7a930002755f135e96194c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:04:18</sys_updated_on>
+            <value>LBL 1880</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LBL 1881</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>49</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:59:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c02f3adadb7a930002755f135e9619d9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:04:22</sys_updated_on>
+            <value>LBL 1881</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LBL 1882</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>50</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:59:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca2fbadadb7a930002755f135e96191a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:04:25</sys_updated_on>
+            <value>LBL 1882</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LBL 1883</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>51</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:59:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d3f3edadb7a930002755f135e96197a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:04:28</sys_updated_on>
+            <value>LBL 1883</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LBL 1884</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>52</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:59:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>673f3edadb7a930002755f135e961998</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:04:32</sys_updated_on>
+            <value>LBL 1884</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LBL 1927</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>53</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:59:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b4f7edadb7a930002755f135e961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:59:48</sys_updated_on>
+            <value>LBL 1927</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LBL 1928</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>54</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:59:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d95f7edadb7a930002755f135e961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:59:57</sys_updated_on>
+            <value>LBL 1928</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LBL 1929</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>55</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:00:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>146f3edadb7a930002755f135e961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:00:09</sys_updated_on>
+            <value>LBL 1929</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LBL 1930</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>56</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:00:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba6f7edadb7a930002755f135e9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:00:19</sys_updated_on>
+            <value>LBL 1930</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LCC 1934</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>57</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f7fbedadb7a930002755f135e961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:00:38</sys_updated_on>
+            <value>LCC 1934</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LDC 1933</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>58</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:01:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f29fbedadb7a930002755f135e961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:01:08</sys_updated_on>
+            <value>LDC 1933</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LDCF 1935</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>59</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:01:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86affedadb7a930002755f135e961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:01:21</sys_updated_on>
+            <value>LDCF 1935</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LDCF 1936</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>60</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:01:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6bf321edb7a930002755f135e96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:01:39</sys_updated_on>
+            <value>LDCF 1936</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSC 1904</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>61</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:01:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>adcf321edb7a930002755f135e961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:01:53</sys_updated_on>
+            <value>LSC 1904</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSC 1907</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>62</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:02:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24df721edb7a930002755f135e961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:02:04</sys_updated_on>
+            <value>LSC 1907</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSCL 1908</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>63</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:02:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77df721edb7a930002755f135e9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:02:18</sys_updated_on>
+            <value>LSCL 1908</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSCL 1909</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>64</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:02:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbefb21edb7a930002755f135e96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:02:32</sys_updated_on>
+            <value>LSCL 1909</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>traditional service</dependent_value>
+            <element>car_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSCL 1910</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>65</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 05:02:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65fff21edb7a930002755f135e961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 05:02:41</sys_updated_on>
+            <value>LSCL 1910</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>car_number</element>
+            <name>x_enps_ocs_ptr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:49:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0decec7c4f0f9b0077b698701310c7aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>car_number</sys_name>
+            <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+            <sys_update_name>sys_choice_x_enps_ocs_ptr_car_number</sys_update_name>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:49:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

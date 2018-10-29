@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>832e40dfdb1913003228f9151d9619a6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_group">
+    <sys_user_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cost_center/>
+        <default_assignee/>
+        <description/>
+        <email>ptr_train_movement@qr.com.au</email>
+        <exclude_manager>false</exclude_manager>
+        <include_members>false</include_members>
+        <manager/>
+        <name>PTR - Operations</name>
+        <parent/>
+        <roles/>
+        <source/>
+        <sys_created_by>jake.g</sys_created_by>
+        <sys_created_on>2018-04-11 05:06:06</sys_created_on>
+        <sys_id>832e40dfdb1913003228f9151d9619a6</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>jake.g</sys_updated_by>
+        <sys_updated_on>2018-04-11 23:22:47</sys_updated_on>
+        <type>ace8c46fdbdd13003228f9151d961915</type>
+    </sys_user_group>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jake.g</sys_created_by>
+        <sys_created_on>2018-06-29 09:59:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e21788fcdbc397403228f9151d9619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PTR - Operations</sys_name>
+        <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+        <sys_update_name>sys_metadata_link_e21788fcdbc397403228f9151d9619de</sys_update_name>
+        <sys_updated_by>jake.g</sys_updated_by>
+        <sys_updated_on>2018-06-29 09:59:50</sys_updated_on>
+        <tablename>sys_user_group</tablename>
+    </sys_metadata_link>
+</record_update>

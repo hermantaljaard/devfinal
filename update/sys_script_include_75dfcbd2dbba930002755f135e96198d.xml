@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_enps_ocs.TripReportUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>TripReportUtils</name>
+        <script><![CDATA[var TripReportUtils = Class.create();
+TripReportUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	// Return to client script ALL Active choices for given table and element
+	// NOTE: Returns JSON Array of Object with properties for label, value and dependent_value
+	getChoiceListAJAX: function(){
+		gs.info('TripReportUtils.getChoiceListAJAX() called..');
+		var table = ''+this.getParameter('table');
+		var element = ''+this.getParameter('element');
+		var choiceArr = this.getChoiceList(table,element);
+		var choiceArrJSON = JSON.stringify(choiceArr);
+		gs.info('TripReportUtils.getChoiceListAJAX() choiceArrJSON: '+choiceArrJSON);
+		return choiceArrJSON;
+	},
+	
+	// Return ALL Active choices for given table and element
+	getChoiceList: function(table,element){
+		var choiceArr = [];
+		var choiceRec = new GlideRecord('sys_choice');
+		//inactive!=false^name=x_enps_ocs_ptr^element=categorname=x_enps_ocs_ptr^element=category
+		choiceRec.addEncodedQuery('inactive=false^name='+table+'^element='+element);
+		choiceRec.orderBy('sequence');
+		choiceRec.query();
+		while(choiceRec.next()){
+			var choice = {};
+			choice.label = ''+choiceRec.label;
+			choice.value = ''+choiceRec.value;
+			choice.dependent_value = ''+choiceRec.dependent_value;
+			choiceArr.push(choice);
+		}
+		return choiceArr;
+	},
+	
+    type: 'TripReportUtils'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>jake.g</sys_created_by>
+        <sys_created_on>2018-06-22 06:24:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>75dfcbd2dbba930002755f135e96198d</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>TripReportUtils</sys_name>
+        <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+        <sys_update_name>sys_script_include_75dfcbd2dbba930002755f135e96198d</sys_update_name>
+        <sys_updated_by>jake.g</sys_updated_by>
+        <sys_updated_on>2018-06-22 10:51:18</sys_updated_on>
+    </sys_script_include>
+</record_update>

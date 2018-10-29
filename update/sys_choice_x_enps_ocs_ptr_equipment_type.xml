@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="equipment_type" table="x_enps_ocs_ptr" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Catering equipment</dependent_value>
+            <element>equipment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Point of Sale &amp; EFTPOS</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>0</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:10:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52bceb816f430300db3952b10b3ee416</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>herman.t</sys_updated_by>
+            <sys_updated_on>2017-12-14 01:10:23</sys_updated_on>
+            <value>Point of Sale &amp; EFTPOS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Catering equipment</dependent_value>
+            <element>equipment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oven</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>1</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:10:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92bceb816f430300db3952b10b3ee418</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>herman.t</sys_updated_by>
+            <sys_updated_on>2017-12-14 01:10:23</sys_updated_on>
+            <value>Oven</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Catering equipment</dependent_value>
+            <element>equipment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Coffee makers</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>2</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:10:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12bceb816f430300db3952b10b3ee41a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>herman.t</sys_updated_by>
+            <sys_updated_on>2017-12-14 01:10:23</sys_updated_on>
+            <value>Coffee makers</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Catering equipment</dependent_value>
+            <element>equipment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refridgeration</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>3</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:10:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ebceb816f430300db3952b10b3ee41b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>herman.t</sys_updated_by>
+            <sys_updated_on>2017-12-14 01:10:23</sys_updated_on>
+            <value>Refridgeration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Catering equipment</dependent_value>
+            <element>equipment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>4</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:10:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ebceb816f430300db3952b10b3ee41d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-04-11 01:29:49</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>equipment_type</element>
+            <name>x_enps_ocs_ptr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-04-11 01:28:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1dec20bc4f0f9b0077b698701310c76f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>equipment_type</sys_name>
+            <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+            <sys_update_name>sys_choice_x_enps_ocs_ptr_equipment_type</sys_update_name>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-04-11 01:28:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

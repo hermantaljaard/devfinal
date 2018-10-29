@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="train_type" table="x_enps_ocs_ptr" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>train_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Traditional Service</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>0</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:47:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a86c3a5adb7a930002755f135e9619b8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>enable.zk</sys_updated_by>
+            <sys_updated_on>2018-08-01 03:24:58</sys_updated_on>
+            <value>traditional service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>train_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Electric Tilt Train</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>1</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:47:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a86c3a5adb7a930002755f135e9619ba</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>enable.zk</sys_updated_by>
+            <sys_updated_on>2018-08-01 03:24:58</sys_updated_on>
+            <value>electric tilt train</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>train_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Spirit of Queensland</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>2</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:47:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec6cfe5adb7a930002755f135e9619ae</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>enable.zk</sys_updated_by>
+            <sys_updated_on>2018-08-01 03:24:58</sys_updated_on>
+            <value>spirit of queensland</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>train_type</element>
+            <name>x_enps_ocs_ptr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-06-22 04:47:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2dec20bc4f0f9b0077b698701310c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>train_type</sys_name>
+            <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+            <sys_update_name>sys_choice_x_enps_ocs_ptr_train_type</sys_update_name>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:47:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Trip Incident Task" max_length="40" name="x_enps_ocs_ptr_task" sizeclass="3" text_index="true" type="collection"/>
+</database>

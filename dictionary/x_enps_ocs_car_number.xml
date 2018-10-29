@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Car Number" max_length="40" name="x_enps_ocs_car_number" type="collection">
+        <element display="true" label="Car number" max_length="40" name="car_number" type="string"/>
+        <element label="Train type" max_length="32" name="train_type" reference="x_enps_ocs_train_type" type="reference"/>
+        <index name="index">
+            <element name="train_type"/>
+        </index>
+    </element>
+</database>

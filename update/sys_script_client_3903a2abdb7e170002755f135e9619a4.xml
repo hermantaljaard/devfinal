@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <messages/>
+        <name>onLoad Definitions</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	try{
+		// ** Function Definitions **
+		// Function to update the Trip code
+		g_scratchpad.updateTripCode = function(){
+			g_form.setValue('trip_code',g_scratchpad.calculateTripCode());
+		};
+		// Function to calculate Trip code
+		g_scratchpad.calculateTripCode = function(){
+			var trip_code = '';
+			try{
+				var train_number = g_form.getValue('train_number');
+				var trip_depart = g_form.getValue('trip_depart');
+				var trip_arrive = g_form.getValue('trip_arrive'); // 2018-07-02
+				var trip_depart_short = trip_depart.split('-')[2];
+				var trip_arrive_short = trip_arrive.split('-')[2];
+				var month = trip_arrive.split('-')[1];
+				var year = trip_arrive.split('-')[0];
+				if(train_number && trip_depart && trip_arrive){
+					//If Train type is electric tilt train then trip code formay is : trainnnumber_departdate + month + year
+					if(g_form.getValue('train_type') == 'electric tilt train') { 
+						trip_code = train_number + '_' + trip_depart_short + month + year;
+					} else {
+						trip_code = train_number + '_' + trip_depart_short + trip_arrive_short + month + year;
+					}
+				}
+			}
+			catch(err){
+				console.log('Error in calculateTripCode() with details: '+err);
+			}
+			return trip_code;
+		};
+		
+		//Function to append the Train movement options to short description
+		g_scratchpad.addShortDescription = function(selected, text){
+			try{
+				var shortDesc = g_form.getValue('short_description');
+
+				// If checkbox selected and option not a added to short description, then add it
+			    if(selected == 'true' && shortDesc.indexOf(text) == -1){
+				   if(shortDesc == '')
+					   shortDesc = text;
+				   else 
+					   shortDesc += ', ' + text;
+			    }
+				// If checkbox unselected and option present in the short description, then remove it
+				else if(selected != 'true' && shortDesc.indexOf(text) != -1) {
+					var re1 = new RegExp(text,"g");
+					
+					// First replace function removes the text and second replace function removes consecutive ", " (comma and space)
+					shortDesc = shortDesc.replace(re1, '').replace(/(, )(?=\1)/gi, "");
+					
+					// Edge case if short description starts with ", " (comma and space) 
+					if(shortDesc.startsWith(', '))
+						shortDesc = shortDesc.substr(2);
+					
+					// Edge case if short description starts with ", " (comma and space) 
+					if(shortDesc.endsWith(', '))
+						shortDesc = shortDesc.slice(0, -2);
+					
+				}
+
+				g_form.setValue('short_description', shortDesc);
+			}
+			catch(err) {
+				console.log('Error in onLoad Client script addShortDescription : '+err);
+			}
+		};
+	}
+	catch(err){
+		console.log('Error in CS: onLoad Definitions');
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>jake.g</sys_created_by>
+        <sys_created_on>2018-06-26 00:09:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3903a2abdb7e170002755f135e9619a4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>onLoad Definitions</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+        <sys_update_name>sys_script_client_3903a2abdb7e170002755f135e9619a4</sys_update_name>
+        <sys_updated_by>enable.zk</sys_updated_by>
+        <sys_updated_on>2018-07-31 00:49:33</sys_updated_on>
+        <table>x_enps_ocs_ptr</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

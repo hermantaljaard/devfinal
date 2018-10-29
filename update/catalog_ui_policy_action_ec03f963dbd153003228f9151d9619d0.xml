@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Trip Incident Report - Train Movement">c972b163dbd153003228f9151d9619fd</catalog_item>
+        <catalog_variable>IO:26727563dbd153003228f9151d961984</catalog_variable>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>jake.g</sys_created_by>
+        <sys_created_on>2018-04-12 07:04:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ec03f963dbd153003228f9151d9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ticket_type</sys_name>
+        <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_ec03f963dbd153003228f9151d9619d0</sys_update_name>
+        <sys_updated_by>jake.g</sys_updated_by>
+        <sys_updated_on>2018-04-12 07:04:50</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Always Read Only">cff27963dbd153003228f9151d9619dd</ui_policy>
+        <variable>ticket_type</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

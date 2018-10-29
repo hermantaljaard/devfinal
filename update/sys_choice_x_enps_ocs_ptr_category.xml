@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_enps_ocs_ptr" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>catering</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Food quality</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>0</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:35:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c723f856f430300db3952b10b3ee4d1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:33:20</sys_updated_on>
+            <value>Food quality</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Post trip report</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>0</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 00:59:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b04aa3416f430300db3952b10b3ee45d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 22:58:45</sys_updated_on>
+            <value>Post trip report</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>train movement</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Post trip report</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>0</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-05-23 05:52:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec9be8b8db5a53003228f9151d961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-05-23 05:52:05</sys_updated_on>
+            <value>Post trip report</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Train movement</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>0</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 00:59:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>344aa3416f430300db3952b10b3ee45b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 22:58:45</sys_updated_on>
+            <value>Train movement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Catering</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>1</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 00:59:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>304aeb016f430300db3952b10b3ee4d3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 22:58:45</sys_updated_on>
+            <value>Catering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>train movement</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Food quality issues</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>1</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-05-23 05:52:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>309be8b8db5a53003228f9151d961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-05-23 05:52:05</sys_updated_on>
+            <value>Food quality issues</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>catering</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Special dietary requirements</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>1</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:35:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98723f856f430300db3952b10b3ee4d3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:33:20</sys_updated_on>
+            <value>Special dietary requirements</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Equipment</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>2</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 00:59:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc4aeb016f430300db3952b10b3ee4d4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 22:58:45</sys_updated_on>
+            <value>Equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>catering</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Provisioning incidents</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>2</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:35:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18723f856f430300db3952b10b3ee4d5</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:33:20</sys_updated_on>
+            <value>Provisioning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>train movement</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Special dietary requirements</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>2</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-05-23 05:52:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c9be8b8db5a53003228f9151d961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-05-23 05:52:05</sys_updated_on>
+            <value>Special dietary requirements</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>catering</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General catering</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>3</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:35:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94723f856f430300db3952b10b3ee4d7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:33:20</sys_updated_on>
+            <value>General catering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>train movement</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Provisioning incidents</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>3</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-05-23 05:52:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>389be8b8db5a53003228f9151d96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-05-23 05:52:06</sys_updated_on>
+            <value>Provisioning incidents</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ticketing/Customer</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>3</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 00:59:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c4aeb016f430300db3952b10b3ee4d6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 22:58:45</sys_updated_on>
+            <value>Ticketing/Customer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baggage</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>4</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 00:59:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc4aeb016f430300db3952b10b3ee4d0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 22:58:45</sys_updated_on>
+            <value>Baggage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>catering</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Catering equipment issues</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:33:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec9e3439dbc69f0002755f135e961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:33:20</sys_updated_on>
+            <value>Catering equipment issues</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>train movement</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General catering</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>4</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-05-23 05:52:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>789be8b8db5a53003228f9151d961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-05-23 05:52:06</sys_updated_on>
+            <value>General catering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>equipment</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Catering equipment issues</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>5</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:36:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fa2f7856f430300db3952b10b3ee424</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 22:58:45</sys_updated_on>
+            <value>Catering equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>train movement</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Catering equipment issues</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>5</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-05-23 05:52:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>749be8b8db5a53003228f9151d961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-05-23 05:52:06</sys_updated_on>
+            <value>Catering equipment issues</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>train movement</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other train equipment</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>6</sequence>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-05-23 05:52:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>709be8b8db5a53003228f9151d961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-05-23 05:52:06</sys_updated_on>
+            <value>Other train equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>equipment</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Other train equipment</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>6</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:36:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dba2f7856f430300db3952b10b3ee426</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 22:58:45</sys_updated_on>
+            <value>Other train equipment</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_enps_ocs_ptr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-04-11 01:11:49</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>15ec20bc4f0f9b0077b698701310c745</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+            <sys_update_name>sys_choice_x_enps_ocs_ptr_category</sys_update_name>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-04-11 01:11:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

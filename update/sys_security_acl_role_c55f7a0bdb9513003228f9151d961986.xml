@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jake.g</sys_created_by>
+        <sys_created_on>2018-04-10 23:21:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c55f7a0bdb9513003228f9151d961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_enps_ocs_ptr.x_enps_ocs.user</sys_name>
+        <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+        <sys_security_acl display_value="x_enps_ocs_ptr">895f7a0bdb9513003228f9151d961983</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c55f7a0bdb9513003228f9151d961986</sys_update_name>
+        <sys_updated_by>jake.g</sys_updated_by>
+        <sys_updated_on>2018-04-10 23:21:10</sys_updated_on>
+        <sys_user_role display_value="x_enps_ocs.user" name="x_enps_ocs.user">b05f7a0bdb9513003228f9151d961972</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

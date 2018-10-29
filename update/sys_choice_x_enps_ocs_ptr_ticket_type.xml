@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="ticket_type" table="x_enps_ocs_ptr" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ticket_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Train movement</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>0</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:33:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16f1f7856f430300db3952b10b3ee45b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>herman.t</sys_updated_by>
+            <sys_updated_on>2017-12-14 01:33:21</sys_updated_on>
+            <value>train movement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ticket_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Catering</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>1</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:33:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16f1f7856f430300db3952b10b3ee45d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>herman.t</sys_updated_by>
+            <sys_updated_on>2017-12-14 01:33:21</sys_updated_on>
+            <value>catering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ticket_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Post trip report</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>1</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:33:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2af1f7856f430300db3952b10b3ee464</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-13 23:26:49</sys_updated_on>
+            <value>post trip report</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ticket_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other Equipment</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>2</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:33:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52f1f7856f430300db3952b10b3ee45f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>enable.zk</sys_updated_by>
+            <sys_updated_on>2018-07-26 02:01:21</sys_updated_on>
+            <value>equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ticket_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ticketing</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-13 23:26:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d11df075dbc69f0002755f135e961942</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-06-22 04:42:53</sys_updated_on>
+            <value>ticketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ticket_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baggage</label>
+            <language>en</language>
+            <name>x_enps_ocs_ptr</name>
+            <sequence>4</sequence>
+            <sys_created_by>herman.t</sys_created_by>
+            <sys_created_on>2017-12-14 01:33:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eaf1f7856f430300db3952b10b3ee462</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>herman.t</sys_updated_by>
+            <sys_updated_on>2017-12-14 01:33:21</sys_updated_on>
+            <value>baggage</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>ticket_type</element>
+            <name>x_enps_ocs_ptr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jake.g</sys_created_by>
+            <sys_created_on>2018-04-11 01:31:06</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>61ec20bc4f0f9b0077b698701310c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ticket_type</sys_name>
+            <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+            <sys_update_name>sys_choice_x_enps_ocs_ptr_ticket_type</sys_update_name>
+            <sys_updated_by>jake.g</sys_updated_by>
+            <sys_updated_on>2018-04-11 01:31:06</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

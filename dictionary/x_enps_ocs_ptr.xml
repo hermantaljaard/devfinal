@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Trip Incident Report" max_length="40" name="x_enps_ocs_ptr" sizeclass="11" text_index="true" type="collection">
+        <element label="Batch Number" max_length="40" name="batch_number" type="string"/>
+        <element label="Between stations" max_length="100" name="between_stations" type="string"/>
+        <element attributes="ref_qual_elements=train_type" choice="1" dependent="train_type" dependent_on_field="train_type" label="Car number" max_length="40" name="car_number" reference="x_enps_ocs_car_number" reference_qual="javascript: 'train_type='+current.train_type;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced">
+            <choice>
+                <element dependent_value="electric tilt train" label="5301" sequence="0" value="5301"/>
+                <element dependent_value="electric tilt train" label="7301" sequence="1" value="7301"/>
+                <element dependent_value="electric tilt train" label="6301" sequence="2" value="6301"/>
+                <element dependent_value="electric tilt train" label="6302" sequence="3" value="6302"/>
+                <element dependent_value="electric tilt train" label="7302" sequence="4" value="7302"/>
+                <element dependent_value="electric tilt train" label="5302" sequence="5" value="5302"/>
+                <element dependent_value="electric tilt train" label="5303" sequence="6" value="5303"/>
+                <element dependent_value="electric tilt train" label="7303" sequence="7" value="7303"/>
+                <element dependent_value="electric tilt train" label="6303" sequence="8" value="6303"/>
+                <element dependent_value="electric tilt train" label="6304" sequence="9" value="6304"/>
+                <element dependent_value="electric tilt train" label="7304" sequence="10" value="7304"/>
+                <element dependent_value="electric tilt train" label="5304" sequence="11" value="5304"/>
+                <element dependent_value="spirit of queensland" label="5402" sequence="12" value="5402"/>
+                <element dependent_value="spirit of queensland" label="7401" sequence="13" value="7401"/>
+                <element dependent_value="spirit of queensland" label="7407" sequence="14" value="7407"/>
+                <element dependent_value="spirit of queensland" label="7402" sequence="15" value="7402"/>
+                <element dependent_value="spirit of queensland" label="7405" sequence="16" value="7405"/>
+                <element dependent_value="spirit of queensland" label="7406" sequence="17" value="7406"/>
+                <element dependent_value="spirit of queensland" label="7403" sequence="18" value="7403"/>
+                <element dependent_value="spirit of queensland" label="7404" sequence="19" value="7404"/>
+                <element dependent_value="spirit of queensland" label="5407" sequence="20" value="5407"/>
+                <element dependent_value="spirit of queensland" label="5408" sequence="21" value="5408"/>
+                <element dependent_value="spirit of queensland" label="7408" sequence="22" value="7408"/>
+                <element dependent_value="spirit of queensland" label="7414" sequence="23" value="7414"/>
+                <element dependent_value="spirit of queensland" label="7409" sequence="24" value="7409"/>
+                <element dependent_value="spirit of queensland" label="7412" sequence="25" value="7412"/>
+                <element dependent_value="spirit of queensland" label="7413" sequence="26" value="7413"/>
+                <element dependent_value="spirit of queensland" label="7410" sequence="27" value="7410"/>
+                <element dependent_value="spirit of queensland" label="7411" sequence="28" value="7411"/>
+                <element dependent_value="spirit of queensland" label="5404" sequence="29" value="5404"/>
+                <element dependent_value="spirit of queensland" label="5405" sequence="30" value="5405"/>
+                <element dependent_value="spirit of queensland" label="7415" sequence="31" value="7415"/>
+                <element dependent_value="spirit of queensland" label="7421" sequence="32" value="7421"/>
+                <element dependent_value="spirit of queensland" label="7416" sequence="33" value="7416"/>
+                <element dependent_value="spirit of queensland" label="7419" sequence="34" value="7419"/>
+                <element dependent_value="spirit of queensland" label="7420" sequence="35" value="7420"/>
+                <element dependent_value="spirit of queensland" label="7417" sequence="36" value="7417"/>
+                <element dependent_value="spirit of queensland" label="7418" sequence="37" value="7418"/>
+                <element dependent_value="spirit of queensland" label="5409" sequence="38" value="5409"/>
+                <element dependent_value="traditional service" label="LAL 1875" sequence="39" value="LAL 1875"/>
+                <element dependent_value="traditional service" label="LAL 1876" sequence="40" value="LAL 1876"/>
+                <element dependent_value="traditional service" label="LAL 1877" sequence="41" value="LAL 1877"/>
+                <element dependent_value="traditional service" label="LAL 1878" sequence="42" value="LAL 1878"/>
+                <element dependent_value="traditional service" label="LAL 1879" sequence="43" value="LAL 1879"/>
+                <element dependent_value="traditional service" label="LAL 1931" sequence="44" value="LAL 1931"/>
+                <element dependent_value="traditional service" label="LAR 1903" sequence="45" value="LAR 1903"/>
+                <element dependent_value="traditional service" label="LAR 1905" sequence="46" value="LAR 1905"/>
+                <element dependent_value="traditional service" label="LAR 1906" sequence="47" value="LAR 1906"/>
+                <element dependent_value="traditional service" label="LBL 1880" sequence="48" value="LBL 1880"/>
+                <element dependent_value="traditional service" label="LBL 1881" sequence="49" value="LBL 1881"/>
+                <element dependent_value="traditional service" label="LBL 1882" sequence="50" value="LBL 1882"/>
+                <element dependent_value="traditional service" label="LBL 1883" sequence="51" value="LBL 1883"/>
+                <element dependent_value="traditional service" label="LBL 1884" sequence="52" value="LBL 1884"/>
+                <element dependent_value="traditional service" label="LBL 1927" sequence="53" value="LBL 1927"/>
+                <element dependent_value="traditional service" label="LBL 1928" sequence="54" value="LBL 1928"/>
+                <element dependent_value="traditional service" label="LBL 1929" sequence="55" value="LBL 1929"/>
+                <element dependent_value="traditional service" label="LBL 1930" sequence="56" value="LBL 1930"/>
+                <element dependent_value="traditional service" label="LCC 1934" sequence="57" value="LCC 1934"/>
+                <element dependent_value="traditional service" label="LDC 1933" sequence="58" value="LDC 1933"/>
+                <element dependent_value="traditional service" label="LDCF 1935" sequence="59" value="LDCF 1935"/>
+                <element dependent_value="traditional service" label="LDCF 1936" sequence="60" value="LDCF 1936"/>
+                <element dependent_value="traditional service" label="LSC 1904" sequence="61" value="LSC 1904"/>
+                <element dependent_value="traditional service" label="LSC 1907" sequence="62" value="LSC 1907"/>
+                <element dependent_value="traditional service" label="LSCL 1908" sequence="63" value="LSCL 1908"/>
+                <element dependent_value="traditional service" label="LSCL 1909" sequence="64" value="LSCL 1909"/>
+                <element dependent_value="traditional service" label="LSCL 1910" sequence="65" value="LSCL 1910"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="ticket_type" dependent_on_field="ticket_type" label="Category" max_length="40" name="category" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="catering" label="Food quality" sequence="0" value="Food quality"/>
+                <element dependent_value="train movement" label="Post trip report" sequence="0" value="Post trip report"/>
+                <element label="Train movement" sequence="0" value="Train movement"/>
+                <element label="Catering" sequence="1" value="Catering"/>
+                <element dependent_value="train movement" label="Food quality issues" sequence="1" value="Food quality issues"/>
+                <element dependent_value="catering" label="Special dietary requirements" sequence="1" value="Special dietary requirements"/>
+                <element label="Equipment" sequence="2" value="Equipment"/>
+                <element dependent_value="catering" label="Provisioning incidents" sequence="2" value="Provisioning"/>
+                <element dependent_value="train movement" label="Special dietary requirements" sequence="2" value="Special dietary requirements"/>
+                <element dependent_value="catering" label="General catering" sequence="3" value="General catering"/>
+                <element dependent_value="train movement" label="Provisioning incidents" sequence="3" value="Provisioning incidents"/>
+                <element label="Ticketing/Customer" sequence="3" value="Ticketing/Customer"/>
+                <element label="Baggage" sequence="4" value="Baggage"/>
+                <element dependent_value="catering" label="Catering equipment issues" sequence="4" value="Catering equipment issues"/>
+                <element dependent_value="train movement" label="General catering" sequence="4" value="General catering"/>
+                <element dependent_value="train movement" label="Catering equipment issues" sequence="5" value="Catering equipment issues"/>
+                <element dependent_value="train movement" label="Other train equipment" sequence="6" value="Other train equipment"/>
+            </choice>
+        </element>
+        <element label="Corrective action request?" max_length="5" name="corrective_action_request" type="boolean"/>
+        <element choice="1" label="Equipment type" max_length="40" name="equipment_type" type="choice">
+            <choice>
+                <element dependent_value="Catering equipment" label="Point of Sale &amp; EFTPOS" sequence="0" value="Point of Sale &amp; EFTPOS"/>
+                <element dependent_value="Catering equipment" label="Oven" sequence="1" value="Oven"/>
+                <element dependent_value="Catering equipment" label="Coffee makers" sequence="2" value="Coffee makers"/>
+                <element dependent_value="Catering equipment" label="Refridgeration" sequence="3" value="Refridgeration"/>
+                <element dependent_value="Catering equipment" label="Other" sequence="4" value="Other"/>
+            </choice>
+        </element>
+        <element label="Did you provide an explanation for this discrepancy?" max_length="40" name="explanation_for_discrepancy" type="boolean"/>
+        <element label="Kilometre peg" max_length="40" name="kilometre_peg" type="float"/>
+        <element label="Occurrence time" max_length="40" name="occurrence_time" type="glide_time"/>
+        <element choice="1" label="Position" max_length="40" name="position" type="choice">
+            <choice>
+                <element label="PSC" value="psc"/>
+                <element label="PSS" value="pss"/>
+            </choice>
+        </element>
+        <element label="Reported to PSC" max_length="40" name="reported_to_psc" type="boolean"/>
+        <element label="Reported to RTC" max_length="5" name="reported_to_rtc" type="boolean"/>
+        <element label="Rough ride" max_length="5" name="rough_ride" type="boolean"/>
+        <element label="Sector" max_length="40" name="sector" type="string"/>
+        <element label="Shortage or surplus?" max_length="40" name="shortage_or_surplus" type="boolean"/>
+        <element choice="1" dependent="category" dependent_on_field="category" label="Subcategory" max_length="40" name="subcategory" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Equipment" label="Catering equipment" sequence="0" value="Catering equipment"/>
+                <element dependent_value="Catering equipment issues" label="Coffee machines" sequence="0" value="Coffee machines"/>
+                <element dependent_value="Catering" label="Food quality" sequence="0" value="Food quality"/>
+                <element dependent_value="Catering equipment" label="Point of Sale/EFTPOS" sequence="0" value="Point of Sale/EFTPOS"/>
+                <element dependent_value="Catering equipment" label="Coffee maker" sequence="1" value="Coffee maker"/>
+                <element dependent_value="Catering equipment issues" label="Microwaves" sequence="1" value="Microwaves"/>
+                <element dependent_value="Equipment" label="Other train equipment" sequence="1" value="Other train equipment"/>
+                <element dependent_value="Catering" label="Special dietary requirements" sequence="1" value="Special dietary requirements"/>
+                <element dependent_value="Catering equipment" label="Oven" sequence="2" value="Oven"/>
+                <element dependent_value="Catering equipment issues" label="Ovens" sequence="2" value="Ovens"/>
+                <element dependent_value="Catering" label="Provisioning" sequence="2" value="Provisioning"/>
+                <element dependent_value="Catering" label="General catering" sequence="3" value="General catering"/>
+                <element dependent_value="Catering equipment" label="Microwave oven" sequence="3" value="Microwave oven"/>
+                <element dependent_value="Catering equipment issues" label="Refridgeration" sequence="3" value="Refridgeration"/>
+                <element dependent_value="Catering equipment issues" label="Other" sequence="4" value="Other"/>
+            </choice>
+        </element>
+        <element choice="1" label="Issue type" max_length="40" name="ticket_type" type="choice">
+            <choice>
+                <element label="Train movement" sequence="0" value="train movement"/>
+                <element label="Catering" sequence="1" value="catering"/>
+                <element label="Other Equipment" sequence="2" value="equipment"/>
+                <element label="Ticketing" sequence="3" value="ticketing"/>
+                <element label="Baggage" sequence="4" value="baggage"/>
+            </choice>
+        </element>
+        <element label="Train in motion" max_length="5" name="train_in_motion" type="boolean"/>
+        <element label="Train lurch" max_length="5" name="train_lurch" type="boolean"/>
+        <element attributes="ref_qual_elements=train_type" choice="1" dependent="train_type" dependent_on_field="train_type" label="Train number" max_length="40" name="train_number" reference="x_enps_ocs_train_number" reference_qual="javascript: 'train_type='+current.train_type;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced">
+            <choice>
+                <element dependent_value="traditional service" label="PW57" sequence="0" value="PW57"/>
+                <element dependent_value="electric tilt train" label="Q301" sequence="0" value="Q301"/>
+                <element dependent_value="traditional service" label="P986" sequence="1" value="P986"/>
+                <element dependent_value="electric tilt train" label="Q992" sequence="1" value="Q992"/>
+                <element dependent_value="traditional service" label="3S86" sequence="2" value="3S86"/>
+                <element dependent_value="electric tilt train" label="QJ11" sequence="2" value="QJ11"/>
+                <element dependent_value="traditional service" label="3987" sequence="3" value="3987"/>
+                <element dependent_value="electric tilt train" label="Q994" sequence="3" value="Q994"/>
+                <element dependent_value="traditional service" label="3M34" sequence="4" value="3M34"/>
+                <element dependent_value="electric tilt train" label="Q311" sequence="4" value="Q311"/>
+                <element dependent_value="spirit of queensland" label="VC71" sequence="4" value="VC71"/>
+                <element dependent_value="traditional service" label="3231" sequence="5" value="3231"/>
+                <element dependent_value="spirit of queensland" label="VC73" sequence="5" value="VC73"/>
+                <element dependent_value="spirit of queensland" label="VC75" sequence="6" value="VC75"/>
+                <element dependent_value="spirit of queensland" label="VC79" sequence="7" value="VC79"/>
+                <element dependent_value="spirit of queensland" label="VC81" sequence="8" value="VC81"/>
+                <element dependent_value="spirit of queensland" label="V972" sequence="9" value="V972"/>
+                <element dependent_value="spirit of queensland" label="V974" sequence="10" value="V974"/>
+                <element dependent_value="spirit of queensland" label="V976" sequence="11" value="V976"/>
+                <element dependent_value="spirit of queensland" label="V982" sequence="12" value="V982"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Train type" max_length="40" name="train_type" reference="x_enps_ocs_train_type" type="reference">
+            <choice/>
+        </element>
+        <element label="Trip arrive" max_length="40" name="trip_arrive" type="glide_date"/>
+        <element label="Trip code" max_length="40" name="trip_code" type="string"/>
+        <element label="Trip depart" max_length="40" name="trip_depart" type="glide_date"/>
+    </element>
+</database>

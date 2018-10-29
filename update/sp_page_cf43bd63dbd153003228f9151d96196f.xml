@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>sc</category>
+        <css>.carousel-row .col-md-12 {&#13;
+  padding-left: 0;&#13;
+  padding-right: 0;&#13;
+}&#13;
+&#13;
+.pull-in {&#13;
+  margin-left: 0;&#13;
+  margin-right: 0;&#13;
+}&#13;
+&#13;
+.ts-float-right {&#13;
+  float: right;&#13;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>ocs_sc_home</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles>snc_external,snc_internal</roles>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>jake.g</sys_created_by>
+        <sys_created_on>2018-04-12 07:05:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cf43bd63dbd153003228f9151d96196f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ocs_sc_home</sys_name>
+        <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
+        <sys_update_name>sp_page_cf43bd63dbd153003228f9151d96196f</sys_update_name>
+        <sys_updated_by>jake.g</sys_updated_by>
+        <sys_updated_on>2018-04-12 07:06:46</sys_updated_on>
+        <title>Catalog</title>
+    </sp_page>
+</record_update>
