@@ -134,7 +134,6 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>jake.g</sys_created_by>
             <sys_created_on>2018-04-24 05:15:03</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>93fc0713db25d3003228f9151d9619d1</sys_id>
@@ -142,7 +141,6 @@
             <sys_name>x_enps_ocs_ptr</sys_name>
             <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
             <sys_update_name>sys_ui_list_x_enps_ocs_ptr_null</sys_update_name>
             <sys_updated_by>jake.g</sys_updated_by>

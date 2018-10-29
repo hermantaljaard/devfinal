@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>train_number</element>
-            <list_id display_value="x_enps_ocs_train_number" element="NULL" name="x_enps_ocs_train_number" parent="NULL" relationship="NULL" sys_domain="global" view="0ac714104f10220061ccddd5f310c77e">64953a22db6313005fd8880948961986</list_id>
+            <list_id display_value="x_enps_ocs_train_number" element="NULL" name="x_enps_ocs_train_number" parent="NULL" relationship="NULL" sys_domain="global" view="4a2b0373db112300b0e98a8b3a96191a">64953a22db6313005fd8880948961986</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>train_type</element>
-            <list_id display_value="x_enps_ocs_train_number" element="NULL" name="x_enps_ocs_train_number" parent="NULL" relationship="NULL" sys_domain="global" view="0ac714104f10220061ccddd5f310c77e">64953a22db6313005fd8880948961986</list_id>
+            <list_id display_value="x_enps_ocs_train_number" element="NULL" name="x_enps_ocs_train_number" parent="NULL" relationship="NULL" sys_domain="global" view="4a2b0373db112300b0e98a8b3a96191a">64953a22db6313005fd8880948961986</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -44,7 +44,6 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-07-30 05:42:52</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>64953a22db6313005fd8880948961986</sys_id>
@@ -52,13 +51,12 @@
             <sys_name>x_enps_ocs_train_number</sys_name>
             <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
             <sys_update_name>sys_ui_list_x_enps_ocs_train_number_sys_ref_list</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-30 05:42:52</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">0ac714104f10220061ccddd5f310c77e</view>
+            <view display_value="Reference List" name="sys_ref_list">4a2b0373db112300b0e98a8b3a96191a</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

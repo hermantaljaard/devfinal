@@ -8,7 +8,7 @@
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:26727563dbd153003228f9151d961984=post trip report^EQ</catalog_conditions>
-        <catalog_item display_value="Trip Incident Report - Train Movement">c972b163dbd153003228f9151d9619fd</catalog_item>
+        <catalog_item display_value="">c972b163dbd153003228f9151d9619fd</catalog_item>
         <conditions/>
         <description/>
         <global>true</global>
@@ -30,7 +30,6 @@
         <sys_class_name>catalog_ui_policy</sys_class_name>
         <sys_created_by>jake.g</sys_created_by>
         <sys_created_on>2018-04-12 07:02:31</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b482b563dbd153003228f9151d96196b</sys_id>
@@ -39,7 +38,6 @@
         <sys_overrides/>
         <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
         <sys_update_name>catalog_ui_policy_b482b563dbd153003228f9151d96196b</sys_update_name>
         <sys_updated_by>jake.g</sys_updated_by>

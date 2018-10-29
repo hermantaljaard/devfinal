@@ -23,7 +23,6 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>enable.zk</sys_created_by>
         <sys_created_on>2018-07-30 02:18:07</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a4868a264fa7130077b698701310c745</sys_id>
@@ -32,7 +31,6 @@
         <sys_overrides/>
         <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
         <sys_update_name>sys_script_client_a4868a264fa7130077b698701310c745</sys_update_name>
         <sys_updated_by>enable.zk</sys_updated_by>

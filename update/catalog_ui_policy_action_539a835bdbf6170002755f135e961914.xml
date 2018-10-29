@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Trip Incident Report">3dea441fdb1913003228f9151d9619bc</catalog_item>
+        <catalog_item display_value="">3dea441fdb1913003228f9151d9619bc</catalog_item>
         <catalog_variable>IO:698b7253dbf6170002755f135e9619bb</catalog_variable>
         <disabled>ignore</disabled>
         <field/>
@@ -9,13 +9,11 @@
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>jake.g</sys_created_by>
         <sys_created_on>2018-06-25 08:23:09</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>539a835bdbf6170002755f135e961914</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>trip_depart</sys_name>
         <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
         <sys_update_name>catalog_ui_policy_action_539a835bdbf6170002755f135e961914</sys_update_name>
         <sys_updated_by>jake.g</sys_updated_by>

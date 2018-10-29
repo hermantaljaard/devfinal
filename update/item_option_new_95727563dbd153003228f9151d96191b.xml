@@ -3,7 +3,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Trip Incident Report - Train Movement">c972b163dbd153003228f9151d9619fd</cat_item>
+        <cat_item display_value="">c972b163dbd153003228f9151d9619fd</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -59,13 +59,11 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>jake.g</sys_created_by>
         <sys_created_on>2018-04-12 07:02:17</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>95727563dbd153003228f9151d96191b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>&lt;b&gt;Classification&lt;/b&gt;</sys_name>
         <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
         <sys_update_name>item_option_new_95727563dbd153003228f9151d96191b</sys_update_name>
         <sys_updated_by>jake.g</sys_updated_by>
@@ -73,8 +71,6 @@
         <table/>
         <tooltip/>
         <type>11</type>
-        <u_grid_definition/>
-        <u_has_summary>false</u_has_summary>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>

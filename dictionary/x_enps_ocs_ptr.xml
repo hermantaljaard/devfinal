@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Trip Incident Report" max_length="40" name="x_enps_ocs_ptr" sizeclass="11" text_index="true" type="collection">
+    <element audit="true" extends="task" label="Trip Incident Report" max_length="40" name="x_enps_ocs_ptr" text_index="true" type="collection">
         <element label="Batch Number" max_length="40" name="batch_number" type="string"/>
         <element label="Between stations" max_length="100" name="between_stations" type="string"/>
         <element attributes="ref_qual_elements=train_type" choice="1" dependent="train_type" dependent_on_field="train_type" label="Car number" max_length="40" name="car_number" reference="x_enps_ocs_car_number" reference_qual="javascript: 'train_type='+current.train_type;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced">

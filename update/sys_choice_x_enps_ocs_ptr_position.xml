@@ -45,13 +45,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>jake.g</sys_created_by>
             <sys_created_on>2018-04-11 01:31:19</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>51ec20bc4f0f9b0077b698701310c77b</sys_id>
+            <sys_id>e52c8808db6123005842cd05149619b5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>position</sys_name>
             <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
             <sys_update_name>sys_choice_x_enps_ocs_ptr_position</sys_update_name>
             <sys_updated_by>jake.g</sys_updated_by>

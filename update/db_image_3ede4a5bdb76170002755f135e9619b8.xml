@@ -11,13 +11,11 @@
         <sys_class_name>db_image</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-25 04:02:05</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>3ede4a5bdb76170002755f135e9619b8</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>spirit of queensland.jpg</sys_name>
         <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
         <sys_update_name>db_image_3ede4a5bdb76170002755f135e9619b8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
@@ -30,7 +28,6 @@
         <chunk_size_bytes>734003</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
-        <encryption_context/>
         <file_name>image</file_name>
         <image_height/>
         <image_width/>

@@ -4,7 +4,6 @@
         <access>public</access>
         <actions_access>false</actions_access>
         <alter_access>false</alter_access>
-        <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>false</create_access>
@@ -18,19 +17,17 @@
         <number_ref display_value="PTR">d55f7a0bdb9513003228f9151d9619c6</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">717858504f10220061ccddd5f310c782</super_class>
+        <super_class display_value="Task" name="task">3cdbc377db112300b0e98a8b3a961966</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>jake.g</sys_created_by>
         <sys_created_on>2018-04-10 23:21:10</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>305ff2c7db9513003228f9151d9619e3</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Trip Incident Report</sys_name>
         <sys_package display_value="Onboard Customer Services" source="x_enps_ocs">fc5ff2c7db9513003228f9151d9619e2</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Onboard Customer Services">fc5ff2c7db9513003228f9151d9619e2</sys_scope>
         <sys_update_name>sys_db_object_305ff2c7db9513003228f9151d9619e3</sys_update_name>
         <sys_updated_by>jake.g</sys_updated_by>
